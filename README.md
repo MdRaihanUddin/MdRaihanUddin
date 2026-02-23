@@ -32,37 +32,11 @@
 - Prisma
 - REST APIs
 
-### 💳 Payment Integration
-- Stripe
-- SSLCommerz
-
-### 🛠️ Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Neon Database
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce MERN Application
-- Full authentication system
-- Admin dashboard
-- Stripe & SSLCommerz integration
-- Order management system
-
-### 🌐 Personal Portfolio Website
-- React + Tailwind
-- Typing animation
-- Dark/Light mode
-- Responsive design
-
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com
+- 📧 Email: raihanuddin.contact@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/md-raihanuddin
 - 🌐 Portfolio: https://raihan-portfolio-frontend.vercel.app
 
