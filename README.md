@@ -1,25 +1,84 @@
-<!-- Animated Hacker Banner -->
+<h1 align="center">Hi 👋, I'm Md Raihan Uddin</h1>
+<h3 align="center">Full Stack MERN Developer | React & Next.js Enthusiast | Problem Solver</h3>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer (MERN Stack)
+- ⚡ Passionate about building scalable web applications
+- 🔐 Working with Stripe & SSLCommerz Payment Integration
+- 🌱 Currently learning advanced system design & performance optimization
+- 🎯 Goal: Become a top-level Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+
+### 🖥️ Backend
+- Node.js
+- Express.js
+- MongoDB
+- Prisma
+- REST APIs
+
+### 💳 Payment Integration
+- Stripe
+- SSLCommerz
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- Postman
+- Neon Database
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce MERN Application
+- Full authentication system
+- Admin dashboard
+- Stripe & SSLCommerz integration
+- Order management system
+
+### 🌐 Personal Portfolio Website
+- React + Tailwind
+- Typing animation
+- Dark/Light mode
+- Responsive design
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MD%20RAIHAN&fontSize=70&color=0:00ff99,100:000000&stroke=00ff99&animation=fadeIn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;MERN+Stack+Architect;Secure+Backend+Engineer;Payment+Integration+Specialist;Clean+Code+Advocate" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
 
-## 🟢 SYSTEM STATUS
+## 📫 Connect With Me
 
-```bash
-> Initializing developer profile...
-> Loading full-stack modules...
-> Securing backend channels...
-> Integrating payment gateways...
-> Status: ONLINE
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 Portfolio: https://your-portfolio-link.com
 
-Email      : your-email@gmail.com
-LinkedIn   : https://linkedin.com/in/your-profile
-Portfolio  : https://your-portfolio-link.com
-Location   : Bangladesh
-Status     : Open for Senior Opportunities
+---
+
+## ⚡ Fun Fact
+I love coding, learning new technologies, and building real-world applications 🚀
