@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Raihan Uddin</h1>
 <h3 align="center">Full Stack MERN Developer | React & Next.js Enthusiast | Problem Solver</h3>
-
----
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
 
