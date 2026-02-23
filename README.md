@@ -62,9 +62,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff99&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0f0&style=for-the-badge" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
@@ -79,8 +77,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio-link.com
+- 💼 LinkedIn: https://linkedin.com/in/md-raihanuddin
+- 🌐 Portfolio: https://raihan-portfolio-frontend.vercel.app
 
 ---
 
