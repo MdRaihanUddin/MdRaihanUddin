@@ -1,18 +1,15 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]([https://rishavchanda.io](https://linkedin.com/in/md-raihanuddin))
 <h1 align="center">Hi 👋, I'm Md Raihan Uddin</h1>
 <h3 align="center">Full Stack MERN Developer | React & Next.js Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer (MERN Stack)
 - ⚡ Passionate about building scalable web applications
-- 🔐 Working with Stripe & SSLCommerz Payment Integration
 - 🌱 Currently learning advanced system design & performance optimization
 - 🎯 Goal: Become a top-level Software Engineer
 
 ## 🛠️ Tech Stack
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 Frontend
 - HTML5
