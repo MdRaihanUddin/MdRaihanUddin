@@ -63,6 +63,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff99&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
