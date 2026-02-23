@@ -11,8 +11,6 @@
 - 🌱 Currently learning advanced system design & performance optimization
 - 🎯 Goal: Become a top-level Software Engineer
 
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Frontend
@@ -32,15 +30,11 @@
 - Prisma
 - REST APIs
 
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: raihanuddin.contact@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/md-raihanuddin
 - 🌐 Portfolio: https://raihan-portfolio-frontend.vercel.app
-
----
 
 ## ⚡ Fun Fact
 I love coding, learning new technologies, and building real-world applications 🚀
