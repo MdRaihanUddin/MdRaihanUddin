@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)]
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]
 
 <h1 align="center">Hi 👋, I'm Md Raihan Uddin</h1>
 <h3 align="center">Full Stack MERN Developer | React & Next.js Enthusiast</h3>
