@@ -33,7 +33,7 @@
 
 - 📧 Email: raihanuddin.contact@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/md-raihanuddin
-- 🌐 Portfolio: https://raihan-portfolio-frontend.vercel.app
+- 🌐 Portfolio: https://md-raihanuddin.vercel.app
 
 ## ⚡ Fun Fact
 I love coding, learning new technologies, and building real-world applications 🚀
